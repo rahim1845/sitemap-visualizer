@@ -61,7 +61,7 @@ The app is a pure static SPA — no server or environment variables needed.
 3. Vercel auto-detects Vite — accept the defaults (build: `npm run build`, output: `dist`)
 4. Click Deploy — done
 
-Live URL: _add after deployment_
+Live URL: https://sitemap-visualizer-olive.vercel.app
 
 ## Tech Stack
 
