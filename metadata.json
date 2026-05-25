@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Sitemap Visualizer & Editor",
+  "description": "An advanced XML Sitemap visualizer and editor. Upload your sitemap, view the hierarchical flow, and edit via code or visual graph. Powered by Gemini for intelligent SEO suggestions.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "sitemap-visualizer",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["C:\\Users\\Rangrez\\vite-wrapper.cjs"],
+      "port": 3000
+    }
+  ]
+}
